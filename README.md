@@ -18,6 +18,7 @@ A comprehensive experiment to analyze execution times, speedup, and memory overh
 - [Performance Graphs & Visualizations](#performance-graphs--visualizations)
   - [1. Compute-Only Kernel Speedup Scaling](#1-compute-only-kernel-speedup-scaling)
   - [2. Execution Time Breakdown](#2-execution-time-breakdown)
+  - [3. Performance Analysis](#3-performance-analysis)
 - [Deep-Dive Technical Analysis](#deep-dive-technical-analysis)
   - [1. Why Total CUDA Time Exceeds CPU Time (Small Datasets)](#1-why-total-cuda-time-exceeds-cpu-time-small-datasets)
   - [2. Why Compare CUDA Kernel Time vs. CPU Time?](#2-why-compare-cuda-kernel-time-vs-cpu-time)
@@ -182,6 +183,8 @@ Visualizing where execution time is spent during CUDA processing vs. CPU process
 
 <img width="3000" height="1800" alt="cuda_time_comparison" src="https://github.com/user-attachments/assets/4565fac7-4d47-4d5c-be0f-14deba1e00cf" />
 
+### 3. Performance Analysis
+<img width="1411" height="518" alt="cuda_performance_analysis" src="https://github.com/user-attachments/assets/3151ad5a-e346-4719-ae69-4aaeed2c4a89" />
 
 ---
 
