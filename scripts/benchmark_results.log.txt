@@ -1,0 +1,620 @@
+==========================================
+Dataset Size: 1,000,000 elements
+Source File: dataset_1M.cu
+==========================================
+--- Run 1 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 1000000 elements
+Block Size = 256 threads
+Grid Size = 3907 blocks
+
+CPU Execution Time = 0.821800 ms
+CUDA Kernel Time = 10.632000 ms
+Total CUDA Time = 12.775808 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.06x
+========================================
+
+--- Run 2 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 1000000 elements
+Block Size = 256 threads
+Grid Size = 3907 blocks
+
+CPU Execution Time = 1.302200 ms
+CUDA Kernel Time = 0.333024 ms
+Total CUDA Time = 2.350976 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.55x
+========================================
+
+--- Run 3 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 1000000 elements
+Block Size = 256 threads
+Grid Size = 3907 blocks
+
+CPU Execution Time = 1.062700 ms
+CUDA Kernel Time = 0.322784 ms
+Total CUDA Time = 1.963808 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.54x
+========================================
+
+--- Run 4 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 1000000 elements
+Block Size = 256 threads
+Grid Size = 3907 blocks
+
+CPU Execution Time = 1.040700 ms
+CUDA Kernel Time = 0.355456 ms
+Total CUDA Time = 2.026240 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.51x
+========================================
+
+--- Run 5 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 1000000 elements
+Block Size = 256 threads
+Grid Size = 3907 blocks
+
+CPU Execution Time = 1.060900 ms
+CUDA Kernel Time = 0.350240 ms
+Total CUDA Time = 2.245568 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.47x
+========================================
+
+==========================================
+Dataset Size: 5,000,000 elements
+Source File: dataset_5M.cu
+==========================================
+--- Run 1 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 5000000 elements
+Block Size = 256 threads
+Grid Size = 19532 blocks
+
+CPU Execution Time = 4.200600 ms
+CUDA Kernel Time = 0.602336 ms
+Total CUDA Time = 7.968224 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.53x
+========================================
+
+--- Run 2 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 5000000 elements
+Block Size = 256 threads
+Grid Size = 19532 blocks
+
+CPU Execution Time = 4.960000 ms
+CUDA Kernel Time = 0.468000 ms
+Total CUDA Time = 9.337792 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.53x
+========================================
+
+--- Run 3 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 5000000 elements
+Block Size = 256 threads
+Grid Size = 19532 blocks
+
+CPU Execution Time = 6.040600 ms
+CUDA Kernel Time = 0.521792 ms
+Total CUDA Time = 9.536352 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.63x
+========================================
+
+--- Run 4 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 5000000 elements
+Block Size = 256 threads
+Grid Size = 19532 blocks
+
+CPU Execution Time = 5.192800 ms
+CUDA Kernel Time = 0.498176 ms
+Total CUDA Time = 8.833152 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.59x
+========================================
+
+--- Run 5 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 5000000 elements
+Block Size = 256 threads
+Grid Size = 19532 blocks
+
+CPU Execution Time = 5.139700 ms
+CUDA Kernel Time = 0.477056 ms
+Total CUDA Time = 9.160480 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.56x
+========================================
+
+==========================================
+Dataset Size: 10,000,000 elements
+Source File: dataset_10M.cu
+==========================================
+--- Run 1 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 10000000 elements
+Block Size = 256 threads
+Grid Size = 39063 blocks
+
+CPU Execution Time = 10.286100 ms
+CUDA Kernel Time = 0.628992 ms
+Total CUDA Time = 16.342688 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.63x
+========================================
+
+--- Run 2 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 10000000 elements
+Block Size = 256 threads
+Grid Size = 39063 blocks
+
+CPU Execution Time = 10.710500 ms
+CUDA Kernel Time = 0.511904 ms
+Total CUDA Time = 15.330208 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.70x
+========================================
+
+--- Run 3 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 10000000 elements
+Block Size = 256 threads
+Grid Size = 39063 blocks
+
+CPU Execution Time = 11.408100 ms
+CUDA Kernel Time = 0.618432 ms
+Total CUDA Time = 16.132896 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.71x
+========================================
+
+--- Run 4 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 10000000 elements
+Block Size = 256 threads
+Grid Size = 39063 blocks
+
+CPU Execution Time = 9.711000 ms
+CUDA Kernel Time = 0.491264 ms
+Total CUDA Time = 16.512608 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.59x
+========================================
+
+--- Run 5 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 10000000 elements
+Block Size = 256 threads
+Grid Size = 39063 blocks
+
+CPU Execution Time = 9.969900 ms
+CUDA Kernel Time = 0.502240 ms
+Total CUDA Time = 16.646048 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.60x
+========================================
+
+==========================================
+Dataset Size: 20,000,000 elements
+Source File: dataset_20M.cu
+==========================================
+--- Run 1 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 20000000 elements
+Block Size = 256 threads
+Grid Size = 78125 blocks
+
+CPU Execution Time = 18.840700 ms
+CUDA Kernel Time = 0.922336 ms
+Total CUDA Time = 29.238527 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.64x
+========================================
+
+--- Run 2 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 20000000 elements
+Block Size = 256 threads
+Grid Size = 78125 blocks
+
+CPU Execution Time = 19.258000 ms
+CUDA Kernel Time = 0.863328 ms
+Total CUDA Time = 36.223202 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.53x
+========================================
+
+--- Run 3 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 20000000 elements
+Block Size = 256 threads
+Grid Size = 78125 blocks
+
+CPU Execution Time = 22.412800 ms
+CUDA Kernel Time = 0.797280 ms
+Total CUDA Time = 35.203007 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.64x
+========================================
+
+--- Run 4 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 20000000 elements
+Block Size = 256 threads
+Grid Size = 78125 blocks
+
+CPU Execution Time = 20.679000 ms
+CUDA Kernel Time = 0.809248 ms
+Total CUDA Time = 33.722080 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.61x
+========================================
+
+--- Run 5 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 20000000 elements
+Block Size = 256 threads
+Grid Size = 78125 blocks
+
+CPU Execution Time = 19.516300 ms
+CUDA Kernel Time = 0.739904 ms
+Total CUDA Time = 35.104706 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.56x
+========================================
+
+==========================================
+Dataset Size: 50,000,000 elements
+Source File: dataset_50M.cu
+==========================================
+--- Run 1 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 50000000 elements
+Block Size = 256 threads
+Grid Size = 195313 blocks
+
+CPU Execution Time = 42.562400 ms
+CUDA Kernel Time = 1.412416 ms
+Total CUDA Time = 70.538338 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.60x
+========================================
+
+--- Run 2 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 50000000 elements
+Block Size = 256 threads
+Grid Size = 195313 blocks
+
+CPU Execution Time = 48.722600 ms
+CUDA Kernel Time = 1.387168 ms
+Total CUDA Time = 78.994820 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.62x
+========================================
+
+--- Run 3 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 50000000 elements
+Block Size = 256 threads
+Grid Size = 195313 blocks
+
+CPU Execution Time = 53.501800 ms
+CUDA Kernel Time = 1.518176 ms
+Total CUDA Time = 83.535843 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.64x
+========================================
+
+--- Run 4 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 50000000 elements
+Block Size = 256 threads
+Grid Size = 195313 blocks
+
+CPU Execution Time = 49.669800 ms
+CUDA Kernel Time = 1.418368 ms
+Total CUDA Time = 80.526909 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.62x
+========================================
+
+--- Run 5 ---
+
+========================================
+GPU DATASET PROCESSING USING CUDA
+========================================
+Dataset Size = 50000000 elements
+Block Size = 256 threads
+Grid Size = 195313 blocks
+
+CPU Execution Time = 43.400600 ms
+CUDA Kernel Time = 1.394976 ms
+Total CUDA Time = 68.694557 ms
+Verification = PASSED
+
+Sample Results:
+Input[0] = 0.00  Output[0] = 0.00
+Input[1] = 1.00  Output[1] = 2.00
+Input[2] = 2.00  Output[2] = 4.00
+Input[3] = 3.00  Output[3] = 6.00
+Input[4] = 4.00  Output[4] = 8.00
+
+Speedup = 0.63x
+========================================
+
