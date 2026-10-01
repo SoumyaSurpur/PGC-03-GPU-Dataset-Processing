@@ -206,6 +206,7 @@ Comparing CUDA Kernel Time directly to CPU Time isolates raw processing throughp
 ## Key Takeaways
 
 - **Massive Compute Potential:** Raw GPU compute core performance scales exceptionally well with data size—achieving **~28.97x** speedup on the kernel alone for 50 million elements.
+- **Increasing GPU Efficiency:** As the dataset size increases, the GPU is able to utilize its parallel processing resources more effectively, with kernel speedup increasing from **2.04x for 1 million elements to 28.97x for 50 million elements**.
 - **PCIe Transfer Bottleneck:** For simple element-wise array operations with low arithmetic intensity ($1 \text{ FLOP}/\text{element}$), data transfers account for **~98%** of total CUDA execution time.
 - **Future Optimizations:** To achieve end-to-end speedups ($> 1.0\times$) on simple math operations, consider:
   - **Pinned Memory (`cudaHostAlloc`):** Unlocks higher transfer bandwidth across the PCIe bus.
