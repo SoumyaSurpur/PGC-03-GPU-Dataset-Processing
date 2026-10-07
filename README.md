@@ -66,8 +66,6 @@ The experiment tests 5 separate dataset sizes using single-precision floating-po
 
 ---
 
-## Quick Start Guide
-
 ### 1. Environment Verification
 Verify that your GPU and CUDA compiler are properly configured in your path:
 
