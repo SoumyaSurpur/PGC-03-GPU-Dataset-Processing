@@ -10,7 +10,6 @@ A comprehensive experiment to analyze execution times, speedup, and memory overh
 - [Overview](#overview)
 - [Dataset Plan](#dataset-plan)
 - [System Requirements](#system-requirements) 
-- [Quick Start Guide](#quick-start-guide)
 - [Benchmark Execution & Results Table](#benchmark-execution--results-table)
   - [Iteration Runs (1 to 5)](#iteration-runs-1-to-5)
   - [Final Average Summary Table](#final-average-summary-table)
